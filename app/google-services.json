@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74512544075",
+    "project_id": "friendsonline-c1b22",
+    "storage_bucket": "friendsonline-c1b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74512544075:android:e8572381c62540baad78ce",
+        "android_client_info": {
+          "package_name": "com.example.friendsonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74512544075-tb6pbevicljau8i0mn77ce877cjppob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84dQk1bc6U9RpuSZE4ZteDc87N0-M8MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74512544075-tb6pbevicljau8i0mn77ce877cjppob0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
